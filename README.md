@@ -1,4 +1,3 @@
-barebone
-========
+# Barebone.
 
-A barebone plugin structure we use to test our internal tools.
+An empty plugin structure we use to test our internal tools.
